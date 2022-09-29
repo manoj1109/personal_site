@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size:5.625rem  ;
+    /*line-height: 2;*/
+    /*color:  #FA7070;*/
+    /*color:#EC7272;*/
+     color:#937DC2;
+    /* color:#AA96DA;*/
+  /*'Sacramento', cursive;*/
+  /*Bogart,Recoleta,Helvetica Neue,Helvetica,Arial,sans-serif; */
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  /*font-size: 2.1875rem;*/
+  font-size:2.5rem;
+  /*color:#FF9494;*/
+  color:#937DC2;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  /*color:#11999E;*/
+  /*color:#2B9DA1;*/
+  /*color:#393E46;*/
+  /*color:#112D4E;*/
+  /*color:#B83B5E;*/
+  /*color:#222831;*/
+  color:#2D4059;
+}
+a{
+  color:#2C3E50;
+}
+a:hover {
+  color: hotpink;
+}
+
+/*a:link {
+  color: Tomato;
+}*/
+
+/*a:visited {
+  color: SlateBlue;
+}*/
+
+/*a:active {
+  color:#5B2C6F;
+}*/
+
+.computer{
+  width:200px;
+  height:200px;
+}
+
+.skill-row{
+  /*background-color: coral;*/
+  width:50%;
+  margin: 100px auto 100px auto;
+}
+
+.study{
+  width:200px;
+  height:200px;
+}
+
+.edu{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.the-top-container {
+  background-color: skyblue;
+  position: relative;
+  padding-top: 10px;
+}
+
+.the-middle-container {
+
+}
+
+.the-bottom-container {
+
+}
+
+.pic{
+  width:250px;
+  height: 250px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.program{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top-cloud {
+  position: relative;
+  /*right: 250px;
+  top: 10px;*/
+  margin-left: 500px;
+  width:200px;
+  height:200px;
+}
+
+/*
+.middle-cloud{
+  position:relative;
+  width:200px;
+  height:200px;
+  margin-left: 300px;
+  margin-top: 500px;
+}
+*/
+
+.bottom-cloud {
+  position: absolute;
+  /*left: 250px;
+  bottom: 250px;*/
+  width:200px;
+  height:200px;
+}
